@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(34, 58, 82);
+}
+
+#days-of-week {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #ffd61f;
+}
+h1 {
+  color: aliceblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#activities {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #000000;
+}
+h2 {
+  background-color: #ffd61f;
+}
+li {
+  color: aliceblue;
+}
+#astronomy-class {
+  color: #e74c3c;
+}
